@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58462fbc.css",
+    "main.js": "/static/js/main.ff7a6e5b.js",
+    "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/Graident Ai Robot.jpg": "/static/media/Graident Ai Robot.746667c417f08342230b.jpg",
+    "static/media/profile.png": "/static/media/profile.d2f62d9c1c54ed49c104.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/amazon.png": "/static/media/amazon.f65dba3f95d9eadec28d.png",
+    "static/media/java.png": "/static/media/java.9b19ec1f86f68de9ee0c.png",
+    "static/media/imageprofile.png": "/static/media/imageprofile.8a712d3a0818c99ddc09.png",
+    "static/media/Instagram.png": "/static/media/Instagram.b84776e1b326b0aa00ca.png",
+    "static/media/AI.jpg": "/static/media/AI.160fb37cd549770a6c62.jpg",
+    "static/media/python.png": "/static/media/python.7df7aa7293fd55973ab1.png",
+    "static/media/blockchain.png": "/static/media/blockchain.245a90a6b9be3c7a5313.png",
+    "static/media/linux.png": "/static/media/linux.60d52ee66428e6388c74.png",
+    "static/media/Typewriting.jpg": "/static/media/Typewriting.f61ca72506babff42cd1.jpg",
+    "static/media/img.png": "/static/media/img.7744487982b385baa58f.png",
+    "static/media/mongodb.png": "/static/media/mongodb.e8b94df56c25e9caffa6.png",
+    "static/media/tcs.png": "/static/media/tcs.afe2c4e5350c145039a4.png",
+    "static/media/KPR.jpg": "/static/media/KPR.bac54d19f5c6f6d51f39.jpg",
+    "static/media/flow.png": "/static/media/flow.6f8ac755f2ce85745a78.png",
+    "static/media/test.png": "/static/media/test.daca97850608aae907f3.png",
+    "static/media/Naanmudhalvan.png": "/static/media/Naanmudhalvan.f34ee537fbe950ba7287.png",
+    "static/media/Servicenow.png": "/static/media/Servicenow.00114372f86820c32710.png",
+    "static/media/postman.png": "/static/media/postman.256e075934bff447aef4.png",
+    "index.html": "/index.html",
+    "main.58462fbc.css.map": "/static/css/main.58462fbc.css.map",
+    "main.ff7a6e5b.js.map": "/static/js/main.ff7a6e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.ff7a6e5b.js"
+  ]
+}
